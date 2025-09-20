@@ -11,7 +11,7 @@ Permite gestionar productos (crear, editar, eliminar, listar).
 
 ```bash
 git clone https://github.com/AnimeCommunity/AppProductos
-cd AppProductos
+cd my-products-app
 ```
 
 2. Instalar dependencias:
